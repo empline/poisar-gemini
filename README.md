@@ -37,8 +37,8 @@ manifest update before they become available through this extension. No
 automatic approval, credentials, local commands, hooks, or additional model
 instructions are configured. The server enforces the public access boundary.
 
-See the [agent guide](https://poisar.com/agents),
-[Privacy](https://poisar.com/privacy), and [Terms](https://poisar.com/terms).
+See the [agent guide](https://poisar.com/agents) and
+[Privacy](https://poisar.com/privacy).
 
 ## Update or uninstall
 
